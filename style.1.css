@@ -1,4 +1,4 @@
-gih1 {
+h1 {
     font-family: 'Poppins', sans-serif;
     color: #ffffff;
     text-decoration: none;
@@ -7,6 +7,7 @@ gih1 {
     margin: 0 10px;
     font-weight: 600;
 }
+
 .texth1 {
     background: #8c1f1f;
     color: #fff;
@@ -14,7 +15,7 @@ gih1 {
     border: 2px solid rgba(255, 255, 255, 0.667);
 }
 
- h1{
+h1{
     text-shadow: 5px 5px 10.5px rgb(108, 107, 107);
  }
 
@@ -44,15 +45,15 @@ body > img {
     box-shadow: rgb(255, 255, 255) 0px 2px 8px 0px;
 }
 
-ul > li {
-   background-color: #fff;
-   border-radius: 1em;
-   padding: 0.5;
-   margin: 1em 0;
-   align-items: center;
-   display: flex;
-   display: inline-block;
-} 
+ul > li{
+    background-color: #fff;
+    border-radius: 1em;
+    padding: 0.5;
+    margin: 1em 0;
+    align-items: center;
+    display: flex;
+    display: inline-block;
+}
 
 ul > li > a {
     display: flex;
@@ -174,3 +175,6 @@ ul {
     border: 1px solid #ffffff;
     box-shadow: #fff 0px 2px 8px 0px;
 } 
+
+
+
